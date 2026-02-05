@@ -71,6 +71,8 @@ p {
 .team-row img {
     background-color: #F4F4FD;
     border-radius: 4px;
+    display: block;
+    margin-bottom: 20px;
 }
 
 .portfolio-row {
